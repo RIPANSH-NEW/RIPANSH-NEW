@@ -1,164 +1,239 @@
 <div align="center">
 
-<!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Halo,%20Saya%20Nama%20Anda&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18)
+<!-- Animated Gradient Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Halo,%20Saya%20Nama%20Anda&fontSize=48&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%9C%A6%20Digital%20Craftsman&descAlignY=52&descSize=18&descColor=B983FF" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Open+Source+Contributor;Belajar+Hal+Baru+Setiap+Hari;Selamat+Datang+di+Profil+Saya!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%92%BB;Membangun+Produk+Digital+%E2%9A%A1;Open+Source+Enthusiast+%F0%9F%8C%90;Terus+Belajar%2C+Terus+Berkarya+%F0%9F%9A%80" />
 
 <br/>
 
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+<!-- Glow-style badges (dark neon theme) -->
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=0f0c29&labelColor=0f0c29" /></a>
+<a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LINKEDIN-B983FF?style=for-the-badge&logo=linkedin&logoColor=0f0c29&labelColor=0f0c29" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/EMAIL-FF61D8?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=0f0c29" /></a>
+<a href="https://instagram.com/username"><img src="https://img.shields.io/badge/INSTAGRAM-FFD166?style=for-the-badge&logo=instagram&logoColor=0f0c29&labelColor=0f0c29" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=00f5ff&labelColor=0f0c29&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<br/>
 
-### 👋 Tentang Saya
+<!-- ===================== TENTANG SAYA ===================== -->
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-```yaml
-Nama: Nama Lengkap Anda
-Lokasi: Bandung, Indonesia
-Peran: Software Engineer / Web Developer
-Fokus: Membangun aplikasi web yang cepat, rapi, dan bermanfaat
-Belajar: Sedang mendalami Cloud & System Design
-Hobi: Ngoding, ngopi, dan explore teknologi baru
+### ⚡ Tentang Saya
+
+Saya seorang **developer** yang suka mengubah ide jadi produk nyata. Fokus pada kode yang bersih, performa cepat, dan pengalaman pengguna yang mulus.
+
+```javascript
+const profile = {
+  nama: "Nama Lengkap Anda",
+  lokasi: "Bandung, Indonesia 🇮🇩",
+  peran: "Software Engineer",
+  sedangBelajar: ["System Design", "Cloud (AWS/GCP)"],
+  hobi: "ngoding, ngopi, explore teknologi baru",
+  motto: "Done is better than perfect, but great is even better."
+};
 ```
 
-- 🔭 Sedang mengerjakan **[Nama Proyek](#)**
-- 🌱 Sedang belajar **Next.js, Go, dan AWS**
-- 👯 Terbuka untuk kolaborasi di proyek **open source**
-- 💬 Tanya saya soal **JavaScript, React, atau Backend Development**
-- ⚡ Fun fact: **tulis fakta menarik tentang diri Anda di sini**
+- 🔭 Sedang membangun **[Nama Proyek](#)**
+- 🌱 Sedang mendalami **Next.js, Go, dan Kubernetes**
+- 👯 Terbuka untuk kolaborasi proyek **open source**
+- 💬 Ajak diskusi soal **JavaScript, React, atau Backend Development**
+- ⚡ Fun fact: **isi fakta unik tentang Anda di sini**
 
----
+</td>
+<td width="40%" valign="top" align="center">
 
-### 🛠️ Tech Stack
+<img width="100%" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" alt="coding gif"/>
 
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== TECH STACK (animated icons) ===================== -->
 <div align="center">
 
-**Languages**
+### 🛠️ Tech Arsenal
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools & Platform**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,nodejs,express,python,php,laravel,mongodb,mysql,postgres,docker,git,figma,postman,aws,linux&theme=dark&perline=10" />
 
 </div>
 
----
+<br/>
 
-### 📊 GitHub Stats
-
+<!-- ===================== GITHUB STATS - NEON GRID ===================== -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" />
+
+### 📊 Statistik GitHub
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=b983ff&text_color=c9d1d9&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=12" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff61d8&currStreakLabel=00f5ff" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=b983ff&point=ff61d8" />
+
 </div>
 
+<details>
+<summary>🏆 Klik untuk lihat GitHub Trophy</summary>
+<br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
+</div>
+</details>
+
+<br/>
+
+<!-- ===================== SNAKE CONTRIBUTION ANIMATION ===================== -->
+<div align="center">
+
+### 🐍 Kontribusi Berjalan
+
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+<sub>💡 Animasi ini otomatis lewat GitHub Actions — lihat setup di <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+
 </div>
 
+<br/>
+
+<!-- ===================== PROYEK UNGGULAN ===================== -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=redical&hide_border=true" />
-</div>
-
-> 💡 Ganti `USERNAME` di atas dengan username GitHub Anda.
-
----
 
 ### 🚀 Proyek Unggulan
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Nama Proyek 1</h3>
-      <div align="center">
-        <p>Deskripsi singkat proyek — apa yang dibangun dan masalah apa yang diselesaikan.</p>
-        <a href="#"><img src="https://img.shields.io/badge/Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 Nama Proyek 2</h3>
-      <div align="center">
-        <p>Deskripsi singkat proyek — apa yang dibangun dan masalah apa yang diselesaikan.</p>
-        <a href="#"><img src="https://img.shields.io/badge/Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛒 Nama Proyek 3</h3>
-      <div align="center">
-        <p>Deskripsi singkat proyek — apa yang dibangun dan masalah apa yang diselesaikan.</p>
-        <a href="#"><img src="https://img.shields.io/badge/Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎮 Nama Proyek 4</h3>
-      <div align="center">
-        <p>Deskripsi singkat proyek — apa yang dibangun dan masalah apa yang diselesaikan.</p>
-        <a href="#"><img src="https://img.shields.io/badge/Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </div>
-    </td>
-  </tr>
-</table>
+</div>
 
----
-
-### ✨ Sertifikasi & Pencapaian
-
-- 🏆 Nama Sertifikasi / Penghargaan — Penerbit, Tahun
-- 🏆 Nama Sertifikasi / Penghargaan — Penerbit, Tahun
-- 🏆 Nama Sertifikasi / Penghargaan — Penerbit, Tahun
-
----
-
+<table width="100%">
+<tr>
+<td width="50%">
 <div align="center">
 
-### 📫 Mari Terhubung
+<img src="https://img.shields.io/badge/🌐_PROYEK_SATU-0d1117?style=for-the-badge&labelColor=00f5ff&color=0d1117" />
 
-Terbuka untuk peluang kerja, kolaborasi proyek, atau sekadar ngobrol soal teknologi!
+<br/><br/>
 
-[![Gmail](https://img.shields.io/badge/-Email%20Saya-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@example.com)](mailto:youremail@example.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/username)](https://linkedin.com/in/username)
+Deskripsi singkat: apa yang dibangun, masalah yang diselesaikan, dan hasil yang dicapai.
+
+`React` `Node.js` `MongoDB`
+
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00F5FF?style=flat-square&logo=vercel&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Source_Code-B983FF?style=flat-square&logo=github&logoColor=black" /></a>
+
+</div>
+</td>
+<td width="50%">
+<div align="center">
+
+<img src="https://img.shields.io/badge/📱_PROYEK_DUA-0d1117?style=for-the-badge&labelColor=ff61d8&color=0d1117" />
+
+<br/><br/>
+
+Deskripsi singkat: apa yang dibangun, masalah yang diselesaikan, dan hasil yang dicapai.
+
+`Next.js` `TypeScript` `PostgreSQL`
+
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00F5FF?style=flat-square&logo=vercel&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Source_Code-B983FF?style=flat-square&logo=github&logoColor=black" /></a>
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<div align="center">
+
+<img src="https://img.shields.io/badge/🛒_PROYEK_TIGA-0d1117?style=for-the-badge&labelColor=ffd166&color=0d1117" />
+
+<br/><br/>
+
+Deskripsi singkat: apa yang dibangun, masalah yang diselesaikan, dan hasil yang dicapai.
+
+`Vue.js` `Laravel` `MySQL`
+
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00F5FF?style=flat-square&logo=vercel&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Source_Code-B983FF?style=flat-square&logo=github&logoColor=black" /></a>
+
+</div>
+</td>
+<td width="50%">
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎮_PROYEK_EMPAT-0d1117?style=for-the-badge&labelColor=6dff8b&color=0d1117" />
+
+<br/><br/>
+
+Deskripsi singkat: apa yang dibangun, masalah yang diselesaikan, dan hasil yang dicapai.
+
+`Python` `FastAPI` `Docker`
+
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00F5FF?style=flat-square&logo=vercel&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Source_Code-B983FF?style=flat-square&logo=github&logoColor=black" /></a>
+
+</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=6C63FF&style=flat-square&label=Profile+Views)
+<!-- ===================== TIMELINE / PERJALANAN ===================== -->
+<div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+### 🗺️ Perjalanan Karier
+
+```
+2021 ─┬─ 🎓 Mulai belajar pemrograman secara otodidak
+      │
+2022 ─┼─ 💼 Junior Developer di Nama Perusahaan
+      │
+2023 ─┼─ 🚀 Naik jadi Full Stack Developer
+      │
+2024 ─┼─ 🏆 Meraih sertifikasi Nama Sertifikasi
+      │
+2026 ─┴─ ✨ Saat ini — terus berkembang & berkarya
+```
+
+</div>
+
+<br/>
+
+<!-- ===================== QUOTE HARIAN (dynamic) ===================== -->
+<div align="center">
+
+### 💭 Quote Hari Ini
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+<!-- ===================== CONNECT ===================== -->
+<div align="center">
+
+### 📡 Mari Terhubung
+
+Terbuka untuk peluang kerja, kolaborasi proyek open source, atau sekadar diskusi teknologi.
+
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Kirim_Email-0d1117?style=for-the-badge&logo=gmail&logoColor=FF61D8&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/-Terhubung_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0d1117" /></a>
+<a href="https://instagram.com/username"><img src="https://img.shields.io/badge/-Follow_Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=B983FF&labelColor=0d1117" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" />
+
+<sub>✨ Dibuat dengan sepenuh hati — terima kasih sudah mampir!</sub>
 
 </div>
