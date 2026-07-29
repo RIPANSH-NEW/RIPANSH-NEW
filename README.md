@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Gradient Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Halo,%20Saya%20Nama%20Anda&fontSize=48&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%9C%A6%20Digital%20Craftsman&descAlignY=52&descSize=18&descColor=B983FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Halo,%20Saya%20Rafa%20Ripansyah&fontSize=48&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%9C%A6%20Digital%20Craftsman&descAlignY=52&descSize=18&descColor=B983FF" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%92%BB;Membangun+Produk+Digital+%E2%9A%A1;Open+Source+Enthusiast+%F0%9F%8C%90;Terus+Belajar%2C+Terus+Berkarya+%F0%9F%9A%80" />
@@ -9,14 +9,13 @@
 <br/>
 
 <!-- Glow-style badges (dark neon theme) -->
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=0f0c29&labelColor=0f0c29" /></a>
-<a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LINKEDIN-B983FF?style=for-the-badge&logo=linkedin&logoColor=0f0c29&labelColor=0f0c29" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/EMAIL-FF61D8?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=0f0c29" /></a>
-<a href="https://instagram.com/username"><img src="https://img.shields.io/badge/INSTAGRAM-FFD166?style=for-the-badge&logo=instagram&logoColor=0f0c29&labelColor=0f0c29" /></a>
+<a href="https://ripansyah-dev.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=0f0c29&labelColor=0f0c29" /></a>
+<a href="mailto:asahavey9@gmail.com@example.com"><img src="https://img.shields.io/badge/EMAIL-FF61D8?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=0f0c29" /></a>
+<a href="https://www.instagram.com/rfaa_.ripansyh/"><img src="https://img.shields.io/badge/INSTAGRAM-FFD166?style=for-the-badge&logo=instagram&logoColor=0f0c29&labelColor=0f0c29" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=00f5ff&labelColor=0f0c29&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=RIPANSH-NEW&style=for-the-badge&color=00f5ff&labelColor=0f0c29&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -33,17 +32,17 @@ Saya seorang **developer** yang suka mengubah ide jadi produk nyata. Fokus pada 
 
 ```javascript
 const profile = {
-  nama: "Nama Lengkap Anda",
-  lokasi: "Bandung, Indonesia 🇮🇩",
-  peran: "Software Engineer",
-  sedangBelajar: ["System Design", "Cloud (AWS/GCP)"],
+  nama: "Rafa Ripansyah",
+  lokasi: "Majalengka, Jawa Barat",
+  peran: "Game Developer",
+  sedangBelajar: ["Android Studio", "Sysytem Design"],
   hobi: "ngoding, ngopi, explore teknologi baru",
-  motto: "Done is better than perfect, but great is even better."
+  motto: "Jika ikan bisa hidup di air, maka manusia bisa hidup di darat."
 };
 ```
 
-- 🔭 Sedang membangun **[Nama Proyek](#)**
-- 🌱 Sedang mendalami **Next.js, Go, dan Kubernetes**
+- 🔭 Sedang membangun **Website TopUp & PPOB(#)**
+- 🌱 Sedang mendalami **Next.js, Ruby, Java**
 - 👯 Terbuka untuk kolaborasi proyek **open source**
 - 💬 Ajak diskusi soal **JavaScript, React, atau Backend Development**
 - ⚡ Fun fact: **isi fakta unik tentang Anda di sini**
@@ -75,12 +74,12 @@ const profile = {
 
 ### 📊 Statistik GitHub
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=b983ff&text_color=c9d1d9&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RIPANSH-NEW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=b983ff&text_color=c9d1d9&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIPANSH-NEW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=12" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff61d8&currStreakLabel=00f5ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RIPANSH-NEW&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff61d8&currStreakLabel=00f5ff" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=b983ff&point=ff61d8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIPANSH-NEW&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=b983ff&point=ff61d8" />
 
 </div>
 
@@ -88,7 +87,7 @@ const profile = {
 <summary>🏆 Klik untuk lihat GitHub Trophy</summary>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=RIPANSH-NEW&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </div>
 </details>
 
@@ -99,7 +98,7 @@ const profile = {
 
 ### 🐍 Kontribusi Berjalan
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/RIPANSH-NEW/RIPANSH-NEW/output/github-contribution-grid-snake-dark.svg" />
 
 <sub>💡 Animasi ini otomatis lewat GitHub Actions — lihat setup di <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 
