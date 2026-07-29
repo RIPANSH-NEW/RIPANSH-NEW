@@ -63,7 +63,7 @@ const profile = {
 
 ### 🛠️ Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,nodejs,express,python,php,laravel,mongodb,mysql,postgres,docker,git,figma,postman,aws,linux&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,python,php,laravel,mongodb,mysql,linux&theme=dark&perline=10" />
 
 </div>
 
@@ -106,86 +106,6 @@ const profile = {
 
 <br/>
 
-<!-- ===================== PROYEK UNGGULAN ===================== -->
-<div align="center">
-
-### 🚀 Proyek Unggulan
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%">
-<div align="center">
-
-<img src="https://img.shields.io/badge/🌐_PROYEK_SATU-0d1117?style=for-the-badge&labelColor=00f5ff&color=0d1117" />
-
-<br/><br/>
-
-Deskripsi singkat: apa yang dibangun, masalah yang diselesaikan, dan hasil yang dicapai.
-
-`React` `Node.js` `MongoDB`
-
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00F5FF?style=flat-square&logo=vercel&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Source_Code-B983FF?style=flat-square&logo=github&logoColor=black" /></a>
-
-</div>
-</td>
-<td width="50%">
-<div align="center">
-
-<img src="https://img.shields.io/badge/📱_PROYEK_DUA-0d1117?style=for-the-badge&labelColor=ff61d8&color=0d1117" />
-
-<br/><br/>
-
-Deskripsi singkat: apa yang dibangun, masalah yang diselesaikan, dan hasil yang dicapai.
-
-`Next.js` `TypeScript` `PostgreSQL`
-
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00F5FF?style=flat-square&logo=vercel&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Source_Code-B983FF?style=flat-square&logo=github&logoColor=black" /></a>
-
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<div align="center">
-
-<img src="https://img.shields.io/badge/🛒_PROYEK_TIGA-0d1117?style=for-the-badge&labelColor=ffd166&color=0d1117" />
-
-<br/><br/>
-
-Deskripsi singkat: apa yang dibangun, masalah yang diselesaikan, dan hasil yang dicapai.
-
-`Vue.js` `Laravel` `MySQL`
-
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00F5FF?style=flat-square&logo=vercel&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Source_Code-B983FF?style=flat-square&logo=github&logoColor=black" /></a>
-
-</div>
-</td>
-<td width="50%">
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎮_PROYEK_EMPAT-0d1117?style=for-the-badge&labelColor=6dff8b&color=0d1117" />
-
-<br/><br/>
-
-Deskripsi singkat: apa yang dibangun, masalah yang diselesaikan, dan hasil yang dicapai.
-
-`Python` `FastAPI` `Docker`
-
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00F5FF?style=flat-square&logo=vercel&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Source_Code-B983FF?style=flat-square&logo=github&logoColor=black" /></a>
-
-</div>
-</td>
-</tr>
-</table>
-
-<br/>
-
 <!-- ===================== TIMELINE / PERJALANAN ===================== -->
 <div align="center">
 
@@ -194,11 +114,11 @@ Deskripsi singkat: apa yang dibangun, masalah yang diselesaikan, dan hasil yang 
 ```
 2021 ─┬─ 🎓 Mulai belajar pemrograman secara otodidak
       │
-2022 ─┼─ 💼 Junior Developer di Nama Perusahaan
+2023 ─┼─ ❗Mulai membuat project simple
       │
-2023 ─┼─ 🚀 Naik jadi Full Stack Developer
+2024 ─┼─ 🚀 Mulai belajar menjadi Game Developer
       │
-2024 ─┼─ 🏆 Meraih sertifikasi Nama Sertifikasi
+2025 ─┼─ 🏆 Menjadi Game Developer
       │
 2026 ─┴─ ✨ Saat ini — terus berkembang & berkarya
 ```
@@ -225,9 +145,8 @@ Deskripsi singkat: apa yang dibangun, masalah yang diselesaikan, dan hasil yang 
 
 Terbuka untuk peluang kerja, kolaborasi proyek open source, atau sekadar diskusi teknologi.
 
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Kirim_Email-0d1117?style=for-the-badge&logo=gmail&logoColor=FF61D8&labelColor=0d1117" /></a>
-<a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/-Terhubung_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0d1117" /></a>
-<a href="https://instagram.com/username"><img src="https://img.shields.io/badge/-Follow_Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=B983FF&labelColor=0d1117" /></a>
+<a href="mailto:asahavey9@gmail.com"><img src="https://img.shields.io/badge/-Kirim_Email-0d1117?style=for-the-badge&logo=gmail&logoColor=FF61D8&labelColor=0d1117" /></a>
+<a href="https://www.instagram.com/rfaa_.ripansyh/"><img src="https://img.shields.io/badge/-Follow_Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=B983FF&labelColor=0d1117" /></a>
 
 <br/><br/>
 
