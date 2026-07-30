@@ -1,157 +1,67 @@
-<div align="center">
+# <img src="./assets/profile-banner.svg" alt="Muhammad Raja Daffa banner" width="100%" />
 
-<!-- Animated Gradient Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Halo,%20Saya%20Rafa%20Ripansyah&fontSize=48&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%9C%A6%20Digital%20Craftsman&descAlignY=52&descSize=18&descColor=B983FF" />
+<!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
+<p align="center">
+  <!-- <strong>Rza</strong><br /> -->
+  ☕ Coding Enthusiast | 🎨 UI/UX | ⛏️ Samp Server Developer
+</p>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%92%BB;Membangun+Produk+Digital+%E2%9A%A1;Open+Source+Enthusiast+%F0%9F%8C%90;Terus+Belajar%2C+Terus+Berkarya+%F0%9F%9A%80" />
+<p align="center">
+  <a href="https://ripansyah-dev.vercel.app/">Portfolio</a>
+  ·
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  ·
+  <a href="https://www.tiktok.com/@ripantech">TikTok</a>
+  ·
+  <a href="mailto:asahhavey9@gmail.com">Email</a>
+</p>
 
-<br/>
+## Tech Stack
 
-<!-- Glow-style badges (dark neon theme) -->
-<a href="https://ripansyah-dev.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=0f0c29&labelColor=0f0c29" /></a>
-<a href="mailto:asahavey9@gmail.com@example.com"><img src="https://img.shields.io/badge/EMAIL-FF61D8?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=0f0c29" /></a>
-<a href="https://www.instagram.com/rfaa_.ripansyh/"><img src="https://img.shields.io/badge/INSTAGRAM-FFD166?style=for-the-badge&logo=instagram&logoColor=0f0c29&labelColor=0f0c29" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
+</p>
 
-<br/><br/>
+### Minecraft Server Development
 
-<img src="https://komarev.com/ghpvc/?username=RIPANSH-NEW&style=for-the-badge&color=00f5ff&labelColor=0f0c29&label=PROFILE+VIEWS" />
+<p align="center">
+  <img src="./assets/minecraft-server-badge.svg" alt="SA-MP Server Administration" />
+  <img src="https://img.shields.io/badge/Server_Scripting-111827?style=for-the-badge&logo=gnubash&logoColor=E6F7FF" alt="Server Scripting" />
+  <img src="./assets/plugin-configuration-badge.svg" alt="Plugin Configuration" />
+  <img src="https://img.shields.io/badge/Server_Customization-111827?style=for-the-badge&logo=craftcms&logoColor=F59E0B" alt="Server Customization" />
+</p>
 
-</div>
+## GitHub Statistics
 
-<br/>
+<p>
+  <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
+</p>
 
-<!-- ===================== TENTANG SAYA ===================== -->
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIPANSH-NEW&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+</p>
 
-### ⚡ Tentang Saya
+<p>
+  <img src="https://raw.githubusercontent.com/RIPANSH-NEW/RIPANSH-NEW/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for pansyah-dev.vercel.app/" width="100%" />
+</p>
 
-Saya seorang **developer** yang suka mengubah ide jadi produk nyata. Fokus pada kode yang bersih, performa cepat, dan pengalaman pengguna yang mulus.
-
-```javascript
-const profile = {
-  nama: "Rafa Ripansyah",
-  lokasi: "Majalengka, Jawa Barat",
-  peran: "Game Developer",
-  sedangBelajar: ["Android Studio", "Sysytem Design"],
-  hobi: "ngoding, ngopi, explore teknologi baru",
-  motto: "Jika ikan bisa hidup di air, maka manusia bisa hidup di darat."
-};
-```
-
-- 🔭 Sedang membangun **Website TopUp & PPOB(#)**
-- 🌱 Sedang mendalami **Next.js, Ruby, Java**
-- 👯 Terbuka untuk kolaborasi proyek **open source**
-- 💬 Ajak diskusi soal **JavaScript, React, atau Backend Development**
-- ⚡ Fun fact: **isi fakta unik tentang Anda di sini**
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" alt="coding gif"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ===================== TECH STACK (animated icons) ===================== -->
-<div align="center">
-
-### 🛠️ Tech Arsenal
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,python,php,laravel,mongodb,mysql,linux&theme=dark&perline=10" />
-
-</div>
-
-<br/>
-
-<!-- ===================== GITHUB STATS - NEON GRID ===================== -->
-<div align="center">
-
-### 📊 Statistik GitHub
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RIPANSH-NEW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=b983ff&text_color=c9d1d9&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIPANSH-NEW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=12" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RIPANSH-NEW&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff61d8&currStreakLabel=00f5ff" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIPANSH-NEW&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=b983ff&point=ff61d8" />
-
-</div>
-
-<details>
-<summary>🏆 Klik untuk lihat GitHub Trophy</summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RIPANSH-NEW&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
-</div>
-</details>
-
-<br/>
-
-<!-- ===================== SNAKE CONTRIBUTION ANIMATION ===================== -->
-<div align="center">
-
-### 🐍 Kontribusi Berjalan
-
-<img src="https://raw.githubusercontent.com/RIPANSH-NEW/RIPANSH-NEW/output/github-contribution-grid-snake-dark.svg" />
-
-<sub>💡 Animasi ini otomatis lewat GitHub Actions — lihat setup di <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
-
-</div>
-
-<br/>
-
-<!-- ===================== TIMELINE / PERJALANAN ===================== -->
-<div align="center">
-
-### 🗺️ Perjalanan Karier
-
-```
-2021 ─┬─ 🎓 Mulai belajar pemrograman secara otodidak
-      │
-2023 ─┼─ ❗Mulai membuat project simple
-      │
-2024 ─┼─ 🚀 Mulai belajar menjadi Game Developer
-      │
-2025 ─┼─ 🏆 Menjadi Game Developer
-      │
-2026 ─┴─ ✨ Saat ini — terus berkembang & berkarya
-```
-
-</div>
-
-<br/>
-
-<!-- ===================== QUOTE HARIAN (dynamic) ===================== -->
-<div align="center">
-
-### 💭 Quote Hari Ini
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
-<br/>
-
-<!-- ===================== CONNECT ===================== -->
-<div align="center">
-
-### 📡 Mari Terhubung
-
-Terbuka untuk peluang kerja, kolaborasi proyek open source, atau sekadar diskusi teknologi.
-
-<a href="mailto:asahavey9@gmail.com"><img src="https://img.shields.io/badge/-Kirim_Email-0d1117?style=for-the-badge&logo=gmail&logoColor=FF61D8&labelColor=0d1117" /></a>
-<a href="https://www.instagram.com/rfaa_.ripansyh/"><img src="https://img.shields.io/badge/-Follow_Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=B983FF&labelColor=0d1117" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" />
-
-<sub>✨ Dibuat dengan sepenuh hati — terima kasih sudah mampir!</sub>
-
-</div>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIPANSH-NEW/RIPANSH-NEW/output/puzzle-bobble-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RIPANSH-NEW/RIPANSH-NEW/output/puzzle-bobble-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/RIPANSH-NEW/RIPANSH-NEW/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble-style contribution graph" width="100%" />
+  </picture>
+</p>
