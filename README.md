@@ -1,6 +1,6 @@
 # <img src="./assets/profile-banner.svg" alt="Rafa Ripansyah" width="100%" />
 
-<!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
+<!-- <h1 align="center">Rafa Ripansyah</h1> -->
 <p align="center">
   <!-- <strong>Rza</strong><br /> -->
   ☕ Coding Enthusiast | 🎨 UI/UX | ⛏️ Samp Server Developer
