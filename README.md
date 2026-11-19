@@ -1,4 +1,4 @@
-⚡ WELCOME TO MY GITHUB PROFILE ⚡
+w⚡ WELCOME TO MY GITHUB PROFILE ⚡
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00d4ff&height=250&section=header&text=RAFA%20RIFANSYAH&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DEVELOPER%20%7C%20PROGRAMMER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=55" width="100%"/>
@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=700&lines=HELLO+WORLD!+%F0%9F%91%8B;I'M+RAFA+RIFANSYAH;WEB+DEVELOPER+%F0%9F%92%BB;JAVASCRIPT+ENTHUSIAST+%E2%9A%A1;SA-MP+DEVELOPER+%F0%9F%8E%AE;WELCOME+TO+MY+PROFILE!" />
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" />
+  <img src="https://img.shields.io/github/followers/RIPANSH-NEW?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" />
 </p>---
 
 🧑‍💻 ABOUT ME
@@ -48,28 +48,28 @@ const rafa = {
 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RIPANSH-NEW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIPANSH-NEW&layout=compact&theme=tokyonight&hide_border=true" />
 </p><p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=RIPANSH-NE&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>---
 
 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RIPANSH-NEW&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=7" width="100%" />
 </p>---
 
 📈 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00d4ff&line=0077ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIPANSH-NEW&bg_color=0d1117&color=00d4ff&line=0077ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>---
 
 🌐 CONNECT WITH ME
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/RIPANSH-NEW">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="#">
