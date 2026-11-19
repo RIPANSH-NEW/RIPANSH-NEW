@@ -1,93 +1,65 @@
-w⚡ WELCOME TO MY GITHUB PROFILE ⚡
+<!--
+  RIPANSH-NEW | DIGITAL ARCHIVE
+  GitHub Profile README
+--><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=F1EBDD&height=220&section=header&text=THE%20CREATIVE%20MIND.&fontSize=48&fontColor=242424&fontAlignY=45&desc=RIPANSH-NEW%20%E2%80%94%20DIGITAL%20ARCHIVE&descSize=13&descColor=E56B35&descAlignY=70" width="100%"/><br/>INDEPENDENT DEVELOPER / DIGITAL EXPLORER
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00d4ff&height=250&section=header&text=RAFA%20RIFANSYAH&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DEVELOPER%20%7C%20PROGRAMMER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=55" width="100%"/>
-</p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=700&lines=HELLO+WORLD!+%F0%9F%91%8B;I'M+RAFA+RIFANSYAH;WEB+DEVELOPER+%F0%9F%92%BB;JAVASCRIPT+ENTHUSIAST+%E2%9A%A1;SA-MP+DEVELOPER+%F0%9F%8E%AE;WELCOME+TO+MY+PROFILE!" />
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/RIPANSH-NEW?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" />
+"INDONESIA" · "WEB DEVELOPMENT" · "OPEN SOURCE"
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=1000&color=E56B35&center=true&vCenter=true&width=500&lines=Building+things+for+the+digital+world.;Ideas+become+reality+through+code.;Always+experimenting.+Always+creating." /></div>---
+
+01 / THE PERSON BEHIND THE CODE
+
+«"Not just writing code. Creating something worth remembering."»
+
+I'm RIPANSH-NEW, a developer from Indonesia 🇮🇩 who enjoys exploring technology, building digital experiences, and experimenting with code.
+
+FIELD| DETAILS
+NAME| Ripansh
+LOCATION| Indonesia 🇮🇩
+ROLE| Web Developer
+INTEREST| Programming & Technology
+CURRENT STATUS| Always Learning
+
+---
+
+02 / SELECTED TECHNOLOGIES
+
+01 — FRONTEND
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+</p>02 — BACKEND & DATABASE
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,nodejs,python,mysql,mongodb" />
+</p>03 — DEVELOPMENT TOOLS
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma" />
 </p>---
 
-🧑‍💻 ABOUT ME
+03 / GITHUB — DATA REPORT
 
-const rafa = {
-    name: "Rafa Rifansyah",
-    role: "Web Developer",
-    country: "Indonesia 🇮🇩",
-    interests: [
-        "Web Development",
-        "JavaScript",
-        "Backend Development",
-        "SA-MP Development"
-    ],
-    currentlyLearning: "New Technologies",
-    motto: "Turning ideas into reality through code."
-};
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RIPANSH-NEW&show_icons=true&hide_border=true&bg_color=F1EBDD&title_color=242424&text_color=555555&icon_color=E56B35" width="100%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIPANSH-NEW&layout=compact&hide_border=true&bg_color=F1EBDD&title_color=242424&text_color=555555" width="100%"/><img src="https://streak-stats.demolab.com?user=RIPANSH-NEW&hide_border=true&background=F1EBDD&ring=E56B35&fire=E56B35&currStreakLabel=242424&sideLabels=555555&dates=777777" width="100%"/></div>---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
-</p>---
+04 / CONTRIBUTION HISTORY
 
-⚙️ TECH STACK & TOOLS
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=RIPANSH-NEW&bg_color=F1EBDD&color=242424&line=E56B35&point=242424&area=true&hide_border=true" width="100%"/></div>---
 
-💻 Programming Languages
+05 / BEYOND THE TERMINAL
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java&theme=dark" />
-</p>🛠️ Frameworks & Technologies
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=RIPANSH-NEW&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%"/></div>---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,bootstrap,tailwind&theme=dark" />
-</p>🔧 Tools & Platforms
+06 / FIND ME ON THE INTERNET
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&theme=dark" />
-</p>---
+<div align="center"><a href="https://github.com/RIPANSH-NEW">
+<img src="https://img.shields.io/badge/GITHUB-242424?style=for-the-badge&logo=github&logoColor=F1EBDD"/>
+</a><a href="https://github.com/RIPANSH-NEW?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-E56B35?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div>---
 
-📊 GITHUB ANALYTICS
+<div align="center">END OF ARCHIVE — ISSUE Nº 001
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RIPANSH-NEW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIPANSH-NEW&layout=compact&theme=tokyonight&hide_border=true" />
-</p><p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=RIPANSH-NE&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>---
+"DESIGNED WITH CURIOSITY."
 
-🏆 GITHUB TROPHIES
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RIPANSH-NEW&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=7" width="100%" />
-</p>---
-
-📈 CONTRIBUTION GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIPANSH-NEW&bg_color=0d1117&color=00d4ff&line=0077ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>---
-
-🌐 CONNECT WITH ME
-
-<p align="center">
-  <a href="https://github.com/RIPANSH-NEW">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>---
-
-💬 DEVELOPER QUOTE
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00d4ff&height=120&section=footer" width="100%"/>
-</p><h3 align="center">⚡ CODE • BUILD • INNOVATE • REPEAT ⚡</h3><p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E56B35&height=8&section=footer" width="100%"/></div>
