@@ -1,65 +1,54 @@
-<!--
-  RIPANSH-NEW | DIGITAL ARCHIVE
-  GitHub Profile README
---><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=F1EBDD&height=220&section=header&text=THE%20CREATIVE%20MIND.&fontSize=48&fontColor=242424&fontAlignY=45&desc=RIPANSH-NEW%20%E2%80%94%20DIGITAL%20ARCHIVE&descSize=13&descColor=E56B35&descAlignY=70" width="100%"/><br/>INDEPENDENT DEVELOPER / DIGITAL EXPLORER
+<!-- RIPANSH-NEW | GLASSMORPHISM PROFILE --><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:09090F,50:342B70,100:00C6FF&height=250&section=header&text=RIPANSH-NEW&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=CREATIVE%20DEVELOPER%20%7C%20DIGITAL%20BUILDER&descSize=15&descColor=C4C4FF&descAlignY=65"/><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=550&lines=Welcome+to+my+digital+space.;Building+ideas+with+code.;Web+Developer+%7C+Tech+Enthusiast.;Turning+concepts+into+reality." /><br/><img src="https://komarev.com/ghpvc/?username=RIPANSH-NEW&style=for-the-badge&color=7258FF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/RIPANSH-NEW?style=for-the-badge&color=7258FF&label=FOLLOWERS&logo=github"/></div><br/>◈ ABOUT ME
 
-"INDONESIA" · "WEB DEVELOPMENT" · "OPEN SOURCE"
+<div align="center"><table>
+<tr>
+<td>👨‍💻 Who Am I?
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=1000&color=E56B35&center=true&vCenter=true&width=500&lines=Building+things+for+the+digital+world.;Ideas+become+reality+through+code.;Always+experimenting.+Always+creating." /></div>---
+I'm RIPANSH-NEW, a developer from Indonesia 🇮🇩.
 
-01 / THE PERSON BEHIND THE CODE
+I love building websites, exploring new technologies, and turning creative ideas into digital experiences.
 
-«"Not just writing code. Creating something worth remembering."»
+</td>
+</tr>
+</table></div><details>
+<summary>✦ More about me</summary>const developer = {
+    username: "RIPANSH-NEW",
+    country: "Indonesia 🇮🇩",
+    occupation: "Web Developer",
+    interests: [
+        "Web Development",
+        "JavaScript",
+        "Backend Development",
+        "SA-MP Development"
+    ],
+    mindset: "Keep Learning, Keep Building."
+};
 
-I'm RIPANSH-NEW, a developer from Indonesia 🇮🇩 who enjoys exploring technology, building digital experiences, and experimenting with code.
+</details><br/>◈ TECH STACK
 
-FIELD| DETAILS
-NAME| Ripansh
-LOCATION| Indonesia 🇮🇩
-ROLE| Web Developer
-INTEREST| Programming & Technology
-CURRENT STATUS| Always Learning
+<div align="center">FRONTEND DEVELOPMENT
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark"/>BACKEND DEVELOPMENT
 
-02 / SELECTED TECHNOLOGIES
+<img src="https://skillicons.dev/icons?i=php,nodejs,python,mysql,mongodb&theme=dark"/>TOOLS & ENVIRONMENT
 
-01 — FRONTEND
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark"/></div><br/>◈ GITHUB OVERVIEW
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
-</p>02 — BACKEND & DATABASE
+<div align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=RIPANSH-NEW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&border_radius=15"/><br/><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIPANSH-NEW&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/></div><br/>◈ CONTRIBUTION ACTIVITY
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,nodejs,python,mysql,mongodb" />
-</p>03 — DEVELOPMENT TOOLS
+<div align="center"><img width="100%" src="https://streak-stats.demolab.com?user=RIPANSH-NEW&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA"/><br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma" />
-</p>---
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RIPANSH-NEW&bg_color=0D1117&color=C4B5FD&line=818CF8&point=FFFFFF&area=true&hide_border=true"/></div><br/>◈ ACHIEVEMENTS
 
-03 / GITHUB — DATA REPORT
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RIPANSH-NEW&show_icons=true&hide_border=true&bg_color=F1EBDD&title_color=242424&text_color=555555&icon_color=E56B35" width="100%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIPANSH-NEW&layout=compact&hide_border=true&bg_color=F1EBDD&title_color=242424&text_color=555555" width="100%"/><img src="https://streak-stats.demolab.com?user=RIPANSH-NEW&hide_border=true&background=F1EBDD&ring=E56B35&fire=E56B35&currStreakLabel=242424&sideLabels=555555&dates=777777" width="100%"/></div>---
-
-04 / CONTRIBUTION HISTORY
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=RIPANSH-NEW&bg_color=F1EBDD&color=242424&line=E56B35&point=242424&area=true&hide_border=true" width="100%"/></div>---
-
-05 / BEYOND THE TERMINAL
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=RIPANSH-NEW&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%"/></div>---
-
-06 / FIND ME ON THE INTERNET
+<div align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=RIPANSH-NEW&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=10"/></div><br/>◈ CONNECT WITH ME
 
 <div align="center"><a href="https://github.com/RIPANSH-NEW">
-<img src="https://img.shields.io/badge/GITHUB-242424?style=for-the-badge&logo=github&logoColor=F1EBDD"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a><a href="https://github.com/RIPANSH-NEW?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-E56B35?style=for-the-badge&logo=github&logoColor=white"/>
-</a></div>---
+<img src="https://img.shields.io/badge/MY_PROJECTS-7258FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div><br/><div align="center">✦ "Design is intelligence made visible."
 
-<div align="center">END OF ARCHIVE — ISSUE Nº 001
+THANK YOU FOR VISITING MY PROFILE.
 
-"DESIGNED WITH CURIOSITY."
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E56B35&height=8&section=footer" width="100%"/></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:342B70,100:00C6FF&height=130&section=footer"/></div>
