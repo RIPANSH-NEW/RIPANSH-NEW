@@ -1,67 +1,93 @@
-# <img src="./assets/profile-banner.svg" alt="Rafa Ripansyah" width="100%" />
-
-<!-- <h1 align="center">Rafa Ripansyah</h1> -->
-<p align="center">
-  <!-- <strong>Rza</strong><br /> -->
-  ☕ Coding Enthusiast | 🎨 UI/UX | ⛏️ Samp Server Developer
-</p>
+⚡ WELCOME TO MY GITHUB PROFILE ⚡
 
 <p align="center">
-  <a href="https://ripansyah-dev.vercel.app/">Portfolio</a>
-  ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  ·
-  <a href="https://www.tiktok.com/@ripantech">TikTok</a>
-  ·
-  <a href="mailto:asahhavey9@gmail.com">Email</a>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00d4ff&height=250&section=header&text=RAFA%20RIFANSYAH&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DEVELOPER%20%7C%20PROGRAMMER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=55" width="100%"/>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=700&lines=HELLO+WORLD!+%F0%9F%91%8B;I'M+RAFA+RIFANSYAH;WEB+DEVELOPER+%F0%9F%92%BB;JAVASCRIPT+ENTHUSIAST+%E2%9A%A1;SA-MP+DEVELOPER+%F0%9F%8E%AE;WELCOME+TO+MY+PROFILE!" />
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" />
+</p>---
 
-## Tech Stack
+🧑‍💻 ABOUT ME
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
-</p>
-
-### Minecraft Server Development
+const rafa = {
+    name: "Rafa Rifansyah",
+    role: "Web Developer",
+    country: "Indonesia 🇮🇩",
+    interests: [
+        "Web Development",
+        "JavaScript",
+        "Backend Development",
+        "SA-MP Development"
+    ],
+    currentlyLearning: "New Technologies",
+    motto: "Turning ideas into reality through code."
+};
 
 <p align="center">
-  <img src="./assets/minecraft-server-badge.svg" alt="SA-MP Server Administration" />
-  <img src="https://img.shields.io/badge/Server_Scripting-111827?style=for-the-badge&logo=gnubash&logoColor=E6F7FF" alt="Server Scripting" />
-  <img src="./assets/plugin-configuration-badge.svg" alt="Plugin Configuration" />
-  <img src="https://img.shields.io/badge/Server_Customization-111827?style=for-the-badge&logo=craftcms&logoColor=F59E0B" alt="Server Customization" />
-</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>---
 
-## GitHub Statistics
+⚙️ TECH STACK & TOOLS
 
-<p>
-  <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
-</p>
+💻 Programming Languages
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIPANSH-NEW&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
-</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java&theme=dark" />
+</p>🛠️ Frameworks & Technologies
 
-<p>
-  <img src="https://raw.githubusercontent.com/RIPANSH-NEW/RIPANSH-NEW/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for pansyah-dev.vercel.app/" width="100%" />
-</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,bootstrap,tailwind&theme=dark" />
+</p>🔧 Tools & Platforms
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIPANSH-NEW/RIPANSH-NEW/output/puzzle-bobble-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RIPANSH-NEW/RIPANSH-NEW/output/puzzle-bobble-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/RIPANSH-NEW/RIPANSH-NEW/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble-style contribution graph" width="100%" />
-  </picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&theme=dark" />
+</p>---
+
+📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p><p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>---
+
+🏆 GITHUB TROPHIES
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=7" width="100%" />
+</p>---
+
+📈 CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00d4ff&line=0077ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>---
+
+🌐 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>---
+
+💬 DEVELOPER QUOTE
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00d4ff&height=120&section=footer" width="100%"/>
+</p><h3 align="center">⚡ CODE • BUILD • INNOVATE • REPEAT ⚡</h3><p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
 </p>
